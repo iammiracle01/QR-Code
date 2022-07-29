@@ -21,7 +21,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 - Solution URL: (https://github.com/iammiracle01/QR-Code)
-- Live Site URL: (https://iammiracle01.github.io/Responsive-Huddle-Landing-Page/)
+- Live Site URL: (https://iammiracle01.github.io/QR-Code/)
 
 ### Built with
 
